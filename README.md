@@ -1,4 +1,4 @@
-# My data scince Homework
+# My SF DS Homework
 
 From the [Skillfactory Data Scince course] (https://skilfactory.ru/data-scientist)
 
